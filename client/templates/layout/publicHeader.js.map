@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "publicHeader.js",
+  "sourceRoot": "",
+  "sources": [
+    "publicHeader.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;EAAA,QAAQ,CAAC,YAAY,CAAC,MAAtB,CACE;IAAA,0BAAA,EAA4B,SAAC,GAAD;aAC1B,MAAM,CAAC,EAAP,CAAU,MAAV;IAD0B,CAA5B;GADF;AAAA"
+}
